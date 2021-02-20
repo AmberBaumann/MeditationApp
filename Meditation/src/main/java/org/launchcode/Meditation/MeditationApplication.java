@@ -9,5 +9,5 @@ public class MeditationApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MeditationApplication.class, args);
 	}
-	String love;
+
 }
